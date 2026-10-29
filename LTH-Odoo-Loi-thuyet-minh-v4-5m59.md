@@ -1,0 +1,117 @@
+# Lời thuyết minh Odoo — Bản 5:59
+
+Mốc thời gian dùng cho video LTH-Odoo-V1-den-Ket-4K-v4-5m59.mp4.
+Chỉ đọc các đoạn lời bên dưới; tên mục và mốc thời gian là chỉ dẫn ghép âm.
+Giọng trình bày rõ, tự nhiên, khoảng 3–4 âm tiết/giây; các đoạn ngắn có thể nhích lên khoảng 4 âm tiết/giây. Ngắt nhẹ giữa các câu, để khoảng nghỉ khi chờ màn hình chuyển.
+Các số lượng và đơn giá đã được viết bằng chữ để dễ thu âm. Không cần đọc toàn bộ mã chứng từ vì video đã hiển thị mã.
+Riêng hai mốc 04:49.6 và 04:53.6: chỉ đọc “đã thanh toán” khi trạng thái đó xuất hiện; căn cụm “hai mươi sáu chiếc” vào lúc bảng tồn hiện số 26 ở cuối cảnh.
+Thời lượng đọc là ước tính, nên thu từng đoạn và ghép theo mốc; lời thoại không kéo dài video.
+
+
+**00:00.0–00:24.1 · Mở đầu và danh sách sản phẩm**
+
+Tiếp theo, nhóm minh họa quy trình kiểm soát và bổ sung tồn kho trên Odoo. Trước hết, nhân viên mở danh sách và xem cách phân nhóm sản phẩm. Với mặt hàng có nhiều màu sắc, kích cỡ, việc kiểm tra tồn cần thực hiện theo từng biến thể. Trong ví dụ này, nhóm theo dõi quần ống rộng nữ màu đen, cỡ M.
+
+**00:24.1–00:55.3 · Danh mục, thuộc tính và biến thể**
+
+Nhóm tiếp tục kiểm tra danh mục, thuộc tính màu sắc, kích cỡ và cách hệ thống quản lý các biến thể. Mỗi biến thể cần được nhận diện thống nhất khi mua hàng, nhập kho và bán hàng. Nhờ đó, nhân viên hạn chế nhầm số lượng giữa các màu hoặc các cỡ của cùng một mẫu. Việc xác định đúng biến thể là cơ sở để kiểm tra nhu cầu và lựa chọn mặt hàng cần bổ sung.
+
+**00:55.3–01:08.5 · Nhà cung cấp và điều kiện mua hàng**
+
+Sau khi xác định đúng biến thể, nhóm chuyển sang mua hàng. Nhân viên đối chiếu thông tin các nhà cung cấp An Phát, Minh Anh và Thành Công, cùng đơn giá và điều kiện cung ứng đang được quản lý trên hệ thống.
+
+**01:08.5–01:26.5 · Kiểm tra yêu cầu báo giá P00008**
+
+Nhân viên mở yêu cầu báo giá của May mặc Thành Công. Mặt hàng cần mua là quần ống rộng nữ đen, cỡ M, số lượng hai mươi tám chiếc. Đơn giá đang ghi nhận là một trăm bảy mươi lăm nghìn đồng một chiếc. Các thông tin này cần được đối chiếu trước khi xác nhận đặt mua.
+
+**01:26.5–01:46.3 · Gửi yêu cầu báo giá, xác nhận đơn mua và nhận hàng**
+
+Tiếp theo, nhân viên gửi yêu cầu báo giá và xác nhận đơn mua. Từ đơn đã xác nhận, nhóm mở phiếu nhận hàng liên kết. Tại đây, cần kiểm tra lại đúng sản phẩm và số lượng thực nhận trước khi xác nhận phiếu. Các chứng từ liên kết giúp theo dõi xuyên suốt từ đặt mua đến nhận hàng.
+
+**01:46.3–01:56.5 · Đối chiếu phiếu nhập LTH/IN/00003**
+
+Trên phiếu nhập liên kết, nhóm kiểm tra đúng biến thể, số lượng hai mươi tám chiếc và trạng thái hoàn tất. Đây là căn cứ ghi nhận hàng đã về kho.
+
+**01:56.5–02:08.9 · Kho hàng và luồng nhập, xuất**
+
+Tiếp theo là tổ chức kho. Nhóm kiểm tra kho trung tâm của LTH Style cùng cấu hình luồng nhập và xuất. Việc xác định đúng kho giúp các bước kiểm tra tồn và nhận hàng được thực hiện thống nhất.
+
+**02:08.9–02:23.5 · Vị trí lưu trữ**
+
+Bên trong kho, các vị trí lưu trữ được phân theo nhóm áo, quần và váy. Nhân viên đối chiếu vị trí nội bộ với nhóm sản phẩm cần quản lý. Cách tổ chức này hỗ trợ tìm hàng, nhận hàng và kiểm tra tồn theo đúng khu vực.
+
+**02:23.5–02:38.0 · Kiểm tra tồn kho**
+
+Tại báo cáo tồn kho, nhóm đối chiếu lượng hiện có, lượng có thể sử dụng, hàng nhập và hàng xuất. Khi đọc số liệu, cần giữ đúng bộ lọc kho và biến thể. Lượng hiện có chưa đồng nghĩa với toàn bộ lượng có thể bán ngay.
+
+**02:38.0–02:48.3 · Ví dụ nhận hàng P00006**
+
+Ở ví dụ nhận hàng này, nhóm chuyển sang mười bảy chiếc váy babydoll đen, cỡ M. Đây là chứng từ khác với đơn quần vừa theo dõi.
+
+**02:48.3–03:06.6 · Quy tắc bổ sung hàng**
+
+Tiếp theo là bước bổ sung hàng cho quần ống rộng nữ đen, cỡ M. Tồn dự báo là mười hai chiếc, mức tối thiểu hai mươi, tối đa bốn mươi. Vì tồn dự báo thấp hơn mức tối thiểu, hệ thống đề xuất mua thêm hai mươi tám chiếc để đạt ngưỡng tối đa.
+
+**03:06.6–03:24.6 · Quay lại bước tạo RFQ P00008**
+
+Ở đây, nhóm quay lại bước tạo yêu cầu báo giá, trước khi xác nhận đơn mua đã xem ở phần trước. Sau thao tác bổ sung, Odoo tạo yêu cầu báo giá tương ứng. Nhóm mở chứng từ để đối chiếu nhà cung cấp, đúng biến thể quần và số lượng hai mươi tám chiếc.
+
+**03:24.6–03:48.6 · V2: chọn biến thể cuối mùa và kiểm tra dữ liệu**
+
+Với vấn đề hàng cuối mùa, nhóm chuyển sang biến thể váy babydoll cổ vuông đen, cỡ M trong bộ dữ liệu mô phỏng. Nhân viên xem tình hình đơn bán và kiểm tra tồn của đúng biến thể trước khi thực hiện chương trình giảm giá. Các số liệu này được dùng cho tình huống demo, tách biệt với ví dụ giả định ở phần đầu.
+
+**03:48.6–03:56.6 · Đối chiếu đúng sản phẩm trên màn hình bổ sung**
+
+Màn hình bổ sung này đang hiển thị sản phẩm quần. Cần đối chiếu quy tắc của đúng biến thể váy trước khi quyết định nhập thêm.
+
+**03:56.6–04:06.6 · Đơn bán S00110 và mức giảm giá**
+
+Trên đơn bán, nhân viên kiểm tra năm chiếc váy đen, cỡ M của khách Nguyễn Khánh Linh, đồng thời đối chiếu mức giảm giá hai mươi phần trăm.
+
+**04:06.6–04:23.6 · Phiếu lấy hàng LTH/PICK/00051**
+
+Từ đơn bán, nhân viên mở phiếu lấy hàng để kiểm tra sản phẩm và lượng cần xuất. Nhóm đối chiếu năm chiếc váy của đơn đang xử lý, rồi thực hiện bước lấy hàng. Phiếu lấy hàng được theo dõi riêng với phiếu giao hàng, đúng theo cấu hình kho trong demo.
+
+**04:23.6–04:37.6 · Phiếu giao hàng LTH/OUT/00045**
+
+Tiếp theo, nhóm mở phiếu giao hàng liên kết với cùng đơn bán. Nhân viên kiểm tra sản phẩm, số lượng thực hiện và xác nhận giao hàng. Khi chứng từ hoàn tất, hệ thống ghi nhận năm chiếc đã giao cho khách.
+
+**04:37.6–04:49.6 · Kiểm tra hóa đơn liên kết**
+
+Ở bước hóa đơn, nhóm kiểm tra chứng từ liên kết với chính đơn bán đang theo dõi. Các thông tin cần đối chiếu gồm sản phẩm, số lượng, tổng tiền và trạng thái thanh toán hiển thị trên hệ thống.
+
+**04:49.6–04:53.6 · Hóa đơn đã thanh toán**
+
+Đến đây, hóa đơn đã được thanh toán.
+
+**04:53.6–04:58.6 · Mở lại biến thể để đọc tồn**
+
+Mở lại đúng biến thể, tồn hiện tại là hai mươi sáu chiếc.
+
+**04:58.6–05:11.6 · Reporting: lượng đã đặt và đã giao**
+
+Sau thao tác, nhóm dùng báo cáo để đánh giá kết quả. Lượng đã đặt và đã giao phải được so sánh trong cùng phạm vi lọc. Chênh lệch giữa hai số liệu chưa đủ để kết luận thiếu hàng.
+
+**05:11.6–05:20.6 · Forecast và đơn mua đang mở**
+
+Ở khung tham chiếu quần đen, cỡ S, nhóm đối chiếu tồn dự báo và các đơn mua đang mở để tránh đặt mua trùng.
+
+**05:20.6–05:31.6 · Đánh giá kết quả đơn xả**
+
+Đơn xả váy đen, cỡ M đã giao năm chiếc. Tại thời điểm kiểm tra còn hai mươi sáu chiếc. Lượng tồn còn lại cần được theo dõi để đánh giá hiệu quả giảm giá.
+
+**05:31.6–05:39.6 · Lựa chọn hướng xử lý**
+
+Trước khi hành động, cần rà soát đơn chưa giao, hàng đang về và sức bán cuối mùa để lựa chọn hướng xử lý phù hợp.
+
+**05:39.6–05:47.6 · Đề xuất rà soát hằng ngày**
+
+Đề xuất thứ nhất: rà soát tồn và đơn chưa giao hằng ngày; điều chỉnh mức bổ sung, thời gian cung ứng theo từng biến thể.
+
+**05:47.6–05:55.6 · Đề xuất rà soát hằng tuần**
+
+Thứ hai: rà soát theo bộ sưu tập hằng tuần, so sánh lượng giao với tồn để quyết định dừng bổ sung hoặc giảm giá có thời hạn.
+
+**05:55.6–05:59.1 · Kết**
+
+Đúng biến thể, liên kết chứng từ, quyết định bằng dữ liệu.
